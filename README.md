@@ -279,6 +279,6 @@ This is not just a project — it shows:
 * Computer vision skills
 * Practical AI implementation
 * OUTPUT
-* <-- Uploading "Neural style transfer_ lakeside to Van Gogh.png"... -->
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0ce9929d-fed8-4f3f-b5e5-c0731b4e99de" />
 
 

@@ -279,6 +279,6 @@ This is not just a project — it shows:
 * Computer vision skills
 * Practical AI implementation
 * OUTPUT
-* <!-- Uploading "Neural style transfer_ lakeside to Van Gogh.png"... -->
+* <-- Uploading "Neural style transfer_ lakeside to Van Gogh.png"... -->
 
 
